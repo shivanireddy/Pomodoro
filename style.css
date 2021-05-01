@@ -1,0 +1,26 @@
+body {
+    background: rgb(221, 205, 221);
+}
+
+.timer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 20px solid white;
+    border-radius: 10rem;
+    width: 20rem;
+    height: 20rem;
+}
+
+.timer h4 {
+    font-size: 4rem;
+}
+
+.row {
+    width: 100%;
+}
+
+.show_message {
+    display: block;
+}
